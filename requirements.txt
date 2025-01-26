@@ -1,3 +1,5 @@
-torch==2.0.1
+torch==2.0.1+cpu
 torchtext==0.15.2
-streamlit
+streamlit==1.25.0
+-f https://download.pytorch.org/whl/cpu
+

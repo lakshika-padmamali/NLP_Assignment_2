@@ -25,6 +25,9 @@ Prompt: Once upon a time
 Output:
 Once upon a time, there was a magical land full of wonder...
 
+![image](https://github.com/user-attachments/assets/79874cf9-4e5f-4fe4-b8d9-c6cff1a7b436)
+
+
 # Key Features
 
 Custom LSTM: Built from scratch using LSTM_cell and CustomLSTMLanguageModel.

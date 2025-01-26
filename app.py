@@ -1,4 +1,3 @@
-
 import torch
 import torch.nn as nn
 import streamlit as st
@@ -134,3 +133,4 @@ randomness = st.slider("Set the creativity level (temperature):", 0.5, 2.0, 1.0,
 if st.button("Generate Text"):
     generated_text = generate(model, tokenizer, vocab, prompt, max_seq_len, randomness)
     st.text_area("Generated Text:", generated_text, height=200)
+

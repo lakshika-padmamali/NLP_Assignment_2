@@ -4,7 +4,8 @@
 
 # Overview
 
-This project implements a custom LSTM-based text generation model. Users can provide a starting prompt, and the trained model generates text interactively through a Streamlit app.
+This project implements a custom LSTM-based text generation model. Users can provide a starting prompt, and the trained model generates text interactively through a Streamlit app. The streamlit app is available in https://nlpassignment2-bfld22dt85tflf8sqsvtfq.streamlit.app/
+
 
 # Files in the Repository
 
